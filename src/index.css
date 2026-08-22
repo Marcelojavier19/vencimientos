@@ -1,0 +1,20 @@
+:root {
+  font-family: "Segoe UI", system-ui, Calibri, Arial, sans-serif;
+  color: #1f2937;
+  background: #f1f5f4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+}
